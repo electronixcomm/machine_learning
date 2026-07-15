@@ -1,0 +1,2 @@
+https://neptune.ai/blog/cross-validation-in-machine-learning-how-to-do-it-right
+https://towardsdatascience.com/what-is-stratified-cross-validation-in-machine-learning-8844f3e7ae8e
